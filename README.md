@@ -12,8 +12,8 @@ Source Of Data: [Download Here](https://www.kaggle.com/datasets/vrindakallu/new-
 -Data cleaning and formatting values such as dates and currency.
 
 ## Tools
--Tableau < br / > 
--Excel < br / > 
+-Tableau 
+-Excel 
 -SQL
 
 ## Exploratory Data Analysis
@@ -22,7 +22,7 @@ Source Of Data: [Download Here](https://www.kaggle.com/datasets/vrindakallu/new-
 -Analyze Sales Trends
 -Analyze distribution of listings across neighborhoods
 -Calculate average listing price
--
+
 
 Key Findings:
 -The Company has been growing at a rapid rate and is doing well within the confines of New York City but can do better with utilziing the other boroughs and increase sales profit through more advertisement for Queen's and Staten Island properties.
