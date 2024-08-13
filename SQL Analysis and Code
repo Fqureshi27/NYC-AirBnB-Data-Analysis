@@ -11,29 +11,21 @@ SELECT AVG(price) AS average_price FROM airbnb_listings_2024;
 -Calculated average listing prices to asses market trends.
 
 SELECT host_id, price, neighbourhood
-
 FROM airbnb_listings_2024
-
 ORDER BY price LIMIT 7;
 
 -Identified top 7 most expensive Airbnb listings by neighborhood
 
 SELECT neighborhood, COUNT(*) AS listings_count
-
 FROM airbnb_listings_2024
-
 GROUP BY neighbourhood
-
 ORDER BY listings_count DESC;
 
 -Analyzed the distribution of listings across neighborhoods.
 
 SELECT neighborhood, AVG(price) AS average_price
-
 FROM airbnb_listings
-
 GROUP BY neighborhood
-
 ORDER BY average_price DESC;
 
 -Evaluated average listing prices across different neighborhoods.
