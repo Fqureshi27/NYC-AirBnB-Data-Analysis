@@ -8,7 +8,9 @@ Source Of Data: [Download Here](https://www.kaggle.com/datasets/vrindakallu/new-
 
 ## Data Cleaning and Preperation
 -Data Loading and inspection
+
 -Handling any missing values
+
 -Data cleaning and formatting values such as dates and currency.
 
 ## Tools
