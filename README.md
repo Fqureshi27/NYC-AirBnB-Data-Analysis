@@ -15,18 +15,26 @@ Source Of Data: [Download Here](https://www.kaggle.com/datasets/vrindakallu/new-
 
 ## Tools
 -Tableau 
+
 -Excel 
+
 -SQL
 
 ## Exploratory Data Analysis
 -Find the most popular borough in terms of sales
+
 -Find the most neighborhood that appeals to customers most
+
 -Analyze Sales Trends
+
 -Analyze distribution of listings across neighborhoods
+
 -Calculate average listing price
 
 
 Key Findings:
 -The Company has been growing at a rapid rate and is doing well within the confines of New York City but can do better with utilziing the other boroughs and increase sales profit through more advertisement for Queen's and Staten Island properties.
+
 -The analysis of the Airbnb NYC dataset revealed that properties in Manhattan tend to have the highest average rates, while listings in Brooklyn show higher occupancy rates, indicating a strong demand despite slightly lower prices.
+
 -Listings with higher review scores generally command higher prices, highlighting the importance of guest satisfaction in achieving premium rates.
