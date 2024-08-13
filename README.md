@@ -12,8 +12,8 @@ Source Of Data: [Download Here](https://www.kaggle.com/datasets/vrindakallu/new-
 -Data cleaning and formatting values such as dates and currency.
 
 ## Tools
--Tableau
--Excel
+-Tableau < br / > 
+-Excel < br / > 
 -SQL
 
 ## Exploratory Data Analysis
