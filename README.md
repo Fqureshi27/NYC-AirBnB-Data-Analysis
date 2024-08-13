@@ -1,10 +1,12 @@
 # NYC-AirBnB-Data-Analysis
 
 ## Project Overview
-This Project showcases the various types of homes within New York City and the 4 major boroughs and details insight on sales data within the market that allows shareholders to view key areas to focus on and develop within the city and quanitifies the amount of AirBnB's within the 4 boroughs.
+This project analyzes the Airbnb market within New York City, focusing on the four major boroughs: Manhattan, Brooklyn, Queens, and Staten Island. It provides insights into market trends, key areas of growth, and strategic opportunities for stakeholders to optimize operations and enhance profitability.
 
 ## Data Description
 Source Of Data: [Download Here](https://www.kaggle.com/datasets/vrindakallu/new-york-dataset)
+
+-The dataset includes various attributes such as property location, pricing, and host information, offering a comprehensive view of the NYC Airbnb market.
 
 ## Data Cleaning and Preperation
 -Data Loading and inspection
@@ -14,28 +16,31 @@ Source Of Data: [Download Here](https://www.kaggle.com/datasets/vrindakallu/new-
 -Data cleaning and formatting values such as dates and currency.
 
 ## Tools
+-SQL
+
 -Tableau 
 
 -Excel 
 
--SQL
-
 ## Exploratory Data Analysis
--Find the most popular borough in terms of sales
+-Identified the most popular borough in terms of revenue.
 
--Find the most neighborhood that appeals to customers most
+-Analyzed neighborhoods with the highest appeal to customers.
 
--Analyze Sales Trends
+-Evaluated sales trends across different boroughs and property types.
 
--Analyze distribution of listings across neighborhoods
+-Analyzed distribution of listings across neighborhoods
 
--Calculate average listing price
+-Assessed the distribution of listings and calculated average listing prices.
 
 
 ## Key Findings:
 
 -The Company has been growing at a rapid rate and is doing well within the confines of New York City but can do better with utilziing the other boroughs and increase sales profit through more advertisement for Queen's and Staten Island properties.
 
--The analysis of the Airbnb NYC dataset revealed that properties in Manhattan tend to have the highest average rates, while listings in Brooklyn show higher occupancy rates, indicating a strong demand despite slightly lower prices.
+-Properties in Manhattan command the highest average rates, while Brooklyn sees higher occupancy despite slightly lower prices.
 
--Listings with higher review scores generally command higher prices, highlighting the importance of guest satisfaction in achieving premium rates.
+-There is an opportunity to increase profitability by focusing on underutilized boroughs such as Queens and Staten Island through targeted marketing efforts.
+
+-Higher review scores correlate with higher listing prices, emphasizing the importance of guest satisfaction.
+
